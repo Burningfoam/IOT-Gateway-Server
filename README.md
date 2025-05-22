@@ -35,6 +35,3 @@
 - **JSONCPP**（JSON解析库）  
 - **POSIX Socket**（Linux/macOS）  
 
----
-
-这个名称（**IOT Gateway Server**）更具通用性，适用于多种物联网场景，而不仅限于农业监控。同时，README结构清晰，便于开发者快速理解和使用。
